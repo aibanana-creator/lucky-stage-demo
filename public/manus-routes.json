@@ -1,0 +1,6 @@
+{
+  "routes": [
+    { "path": "/", "title": "Lucky Stage" },
+    { "path": "/manage", "title": "Lucky Stage 管理画面" }
+  ]
+}
